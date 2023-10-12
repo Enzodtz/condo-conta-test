@@ -1,6 +1,6 @@
 # condo-conta-test
 
-Simulation of payment API.
+Simulation of payment API done in 3 hours.
 
 ### Executing project
 
